@@ -13,6 +13,6 @@ trois.ga
  
 3tres.ga   
 
-3⃣.ga
+3⃣ .ga
 
-3⃣three.ga
+3⃣ three.ga
