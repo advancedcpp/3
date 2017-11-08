@@ -1,5 +1,5 @@
-# Three 3
-List of or verified domains:
+# three 3
+## List of or verified domains:
 
 three.ga
 
