@@ -5,4 +5,4 @@ int main()
 {
    int three = 3;
    
-   cout << "THREE
+   cout << "Three 
