@@ -2,4 +2,4 @@
 
 int main()
 {
-   int three = 
+   int three = 3
