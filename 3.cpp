@@ -7,4 +7,4 @@ int main()
    
    cout << "Three is always " << three << endl;
 
-   return 
+   return 0;
