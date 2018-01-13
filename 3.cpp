@@ -1,5 +1,6 @@
 #include <iostream>
-using namespace std
+using namespace std;
+
 int main()
 {
    int three = 3;
