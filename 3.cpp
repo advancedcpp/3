@@ -1,5 +1,5 @@
 #include <iostream>
-using
+using namespace
 int main()
 {
    int three = 3;
